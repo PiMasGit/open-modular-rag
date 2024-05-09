@@ -116,6 +116,7 @@ marshmallow==3.21.2
 matplotlib==3.8.4
 matplotlib-inline==0.1.7
 mdurl==0.1.2
+mermaid-python==0.1
 mistune==3.0.2
 mmh3==4.1.0
 monotonic==1.6
@@ -182,6 +183,7 @@ pycparser==2.22
 pydantic==2.7.1
 pydantic_core==2.18.2
 Pygments==2.17.2
+pygraphviz==1.13
 pypandoc==1.13
 pyparsing==3.1.2
 pypdf==4.2.0
